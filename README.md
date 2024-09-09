@@ -39,7 +39,20 @@ If the leo_db database does not exist, create it manually using the following co
 
 ## Starting the App
 With database configured and created, start app by running the following command:
-
-    npm start
+```bash
+npm run start
+# or
+yarn start
+# or
+pnpm start
+# or
+bun start
+```
 
 This will start the development server on port 3000. You can then access the app going to [http://localhost:3000](http://localhost:3000)
+
+## Runnig tests
+Run tests with following command:
+```bash
+yarn test
+```
