@@ -1,4 +1,4 @@
-# Tasks Schedule Challenge
+# Tasks Schedule Challenge - Leonardo.AI
 
 In this technical interview test, you are required to implement API endpoints for managing schedules and tasks using TypeScript. 
 The project involves designing and building RESTful or Lambda API endpoints to handle scheduling and task management.
