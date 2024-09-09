@@ -22,3 +22,24 @@ The project involves designing and building RESTful or Lambda API endpoints to h
 | duration   | Integer representing the duration of the task |
 | type       | String enumeration with values 'break' or 'work', indicating the type of task |
 
+## 🧭 Runnig the project
+
+**Clone este repositório**
+
+```bash
+git clone leonardoAI-schedules-challenge.git
+```
+
+## 🔖 Database
+If the leo_db database does not exist, create it manually using the following command:
+```bash
+    psql -h <host> -p <port> -U <username>
+    CREATE DATABASE leonardoai;
+```
+
+## Starting the App
+With database configured and created, start app by running the following command:
+
+    npm start
+
+This will start the development server on port 3000. You can then access the app going to [http://localhost:3000](http://localhost:3000)
