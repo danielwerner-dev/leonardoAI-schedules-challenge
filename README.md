@@ -5,7 +5,7 @@ The project involves designing and building RESTful or Lambda API endpoints to h
 
 ### Schedule table
 | column | description |
-| --- | --- |
+| :---: | :--- |
 | id | Universally unique identifier (UUID) for the schedule |
 | account_id | Integer representing the account associated with the schedule |
 | agent_id | Integer representing the agent assigned to the schedule |
@@ -14,7 +14,7 @@ The project involves designing and building RESTful or Lambda API endpoints to h
 
 ### Task table
 | column | description |
-| --- | --- |
+| :---: | :--- |
 | id | UUID for the task |
 | account_id | Integer representing the account associated with the schedule |
 | schedule_id | UUID referencing the schedule to which the task belongs |
