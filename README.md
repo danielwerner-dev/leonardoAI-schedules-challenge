@@ -3,7 +3,7 @@
 In this technical interview test, you are required to implement API endpoints for managing schedules and tasks using TypeScript. 
 The project involves designing and building RESTful or Lambda API endpoints to handle scheduling and task management.
 
-# Schedule table
+### Schedule table
 | column | description |
 | --- | --- |
 | id | Universally unique identifier (UUID) for the schedule |
@@ -12,7 +12,7 @@ The project involves designing and building RESTful or Lambda API endpoints to h
 | start_time | DateTime indicating the start time of the schedule |
 | end_time   | DateTime indicating the end time of the schedule |
 
-# Task table
+### Task table
 | column | description |
 | --- | --- |
 | id | UUID for the task |
