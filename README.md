@@ -21,6 +21,9 @@ The project involves designing and building RESTful or Lambda API endpoints to h
 ### Table Relationship
 There's a one-to-many relationship between Schedule and Tasks, where a Schedule can have multiple Tasks associated.
 
+### Prerequisites
+* Have Postgres running locally in the development environment or in a cloud instance.
+
 ## 🧭 Runnig the project
 
 1. Clone this repository running the following command:
